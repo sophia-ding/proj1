@@ -19,5 +19,5 @@ This shows error messages because errors.full_messages returns an array of all t
 # Give us feedback on the project and decal below!
 The project was really fun, and I throughly enjoyed doing it. It helped me to better grasp and understand Rails concepts. I asked quite a lot of questions at office hours (sorry), where I was able to clarify any conceptual misunderstandings, confusion with how Rails works, and  how to approach different tasks for the project. Though I still don't understand everything, I am learning a lot!! This project and the class thus far has been very enjoyable and well-taught!
 
-
+LINKED REPO: https://github.com/sophia-ding/proj1.git
 # Extra credit: Link your Heroku deployed app
